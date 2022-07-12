@@ -1,2 +1,2 @@
-# conenctors
+# connectors
 data connectors
